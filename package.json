@@ -45,9 +45,9 @@
     "inferno": "^3.10.1",
     "nwb": "0.21.x",
     "prop-types": "^15.6.0",
-    "react": "^16.2.0",
+    "react": "^18.2.0",
     "react-addons-test-utils": "^15.6.2",
-    "react-dom": "^16.2.0",
+    "react-dom": "^18.2.0",
     "sinon": "^4.4.1"
   },
   "author": "Andre Eberhardt - santos.eberhardt@gmail.com",
